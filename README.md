@@ -1,16 +1,16 @@
 Vagrant-Setup [ EspecializaTI]
 ===========
 
-Servidor LAMP (Linux, Apache, MySQL, PHP)
+Servidor com Easy Engine e Node
 
 Configuração do Vagrant (com provisionamento em Shell Script) para criar uma máquina virtual (Ubuntu Server 14.04 64 Bits) de desenvolvimento em PHP.
 
 ### Pacotes Inclusos:
 
-- PHP 7.1
+- PHP 7.0, 7.1, 7.2
 - MySQL 5.5
 - Git
-- PhpMyAdmin 
+- Easy Engine
 - Composer
 - cURL
 - Vim
